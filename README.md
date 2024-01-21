@@ -1,4 +1,10 @@
 <h1 align="center">Hi 👋, I'm N.Karthik Akshaj</h1>
+<img src="https://raw.githubusercontent.com/sagar-viradiya/sagar-viradiya/master/resources/banner.png" alt="Hello world">
+
+<p align="center"> 
+  Visitor count<br>
+  <img src="https://profile-counter.glitch.me/karthikakshaj/count.svg" />
+</p>
 <h3 align="center">A passionate Fullstack developer from India</h3>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=karthikakshaj" alt="karthikakshaj" /></a> </p>
